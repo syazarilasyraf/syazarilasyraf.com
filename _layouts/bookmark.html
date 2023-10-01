@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<p><strong>Tags:</strong> {{ page.tags | join: ', ' }}</p>
+
+<h2>{{ page.title }}</h2>
+
+<p>{{ page.link | extract_domain }}</p>
+
+<p>{{ page.description | truncate: 140 }}</p>
+
+<p><a href="{{ page.link }}" target="_blank">Visit</a></p>
