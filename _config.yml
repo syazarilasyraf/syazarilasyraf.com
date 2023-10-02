@@ -27,7 +27,7 @@ collections:
       output: true
       permalink: /tools/:title
 
-footer: 'powered by <a href="https://wmsa.me" target="_blank">wmsa</a>'
+footer: 'powered by <a href="https://wmsa.me">wmsa</a>'
 
 # settings
 

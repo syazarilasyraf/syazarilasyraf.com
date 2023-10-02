@@ -23,7 +23,7 @@ description: A list of my favorite tools that I use on a regular basis and that 
 
 <ul>
   {% for tool in site.tools %}
-    <li><a href="{{ tool.link }}" target="_blank">{{ tool.title }}</a></li>
+    <li><a href="{{ tool.link }}">{{ tool.title }}</a></li>
     <p>{{ tool.description }}</p>
   {% endfor %}
 </ul>

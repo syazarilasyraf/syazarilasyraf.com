@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 
 <h1>Writings</h1>
-<p>If you want to read more, have a visit to my blog page, <a href="https://wmsa.hashnode.dev/" target="_blank">here.</a></p>
+<p>If you want to read more, have a visit to my blog page, <a href="https://wmsa.hashnode.dev/">here.</a></p>
 
 <hr>
 {%-include newsletter.html-%}
@@ -27,7 +27,7 @@ permalink: /writing/
         {% for post in tag[1] %}
         <li>
             <span>{{- post.date | date: "%Y-%m-%d" -}}</span>
-            <a href="{{ post.link | relative_link }}" target="_blank">{{ post.title | downcase }}</a>
+            <a href="{{ post.link | relative_link }}">{{ post.title | downcase }}</a>
         </li>
         {% endfor %}
     </ul>
