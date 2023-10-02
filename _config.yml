@@ -27,8 +27,6 @@ collections:
       output: true
       permalink: /tools/:title
 
-goat_counter: "syazarilasyraf" # put your GoatCounter name if you want to use GoatCounter analytics
-
 footer: 'powered by <a href="https://wmsa.me" target="_blank">wmsa</a>'
 
 # settings
