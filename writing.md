@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 
 <h1>Writings</h1>
-<p>If you want to read more, have a visit to my blog page, <a href="https://wmsa.hashnode.dev/">here.</a></p>
+<p>Explore my posts here, including a variety of topics and <a href="https://wmsa.hashnode.dev/">tech</a>.</p>
 
 <h1>Tags</h1>
 <div>
