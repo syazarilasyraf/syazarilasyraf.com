@@ -7,9 +7,6 @@ permalink: /writing/
 <h1>Writings</h1>
 <p>If you want to read more, have a visit to my blog page, <a href="https://wmsa.hashnode.dev/">here.</a></p>
 
-<hr>
-{%-include newsletter.html-%}
-<hr>
 <h1>Tags</h1>
 <div>
     {% for tag in site.tags %}
@@ -33,3 +30,7 @@ permalink: /writing/
     </ul>
     {% endfor %}
 </div>
+
+<hr>
+{%-include newsletter.html-%}
+<hr>
