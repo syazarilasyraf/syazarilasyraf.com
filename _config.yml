@@ -27,7 +27,7 @@ collections:
       output: true
       permalink: /tools/:title
 
-footer: 'powered by <a href="https://wmsa.me">wmsa</a>'
+footer: '<p>Current Status: <span id="current-status"></span></p>'
 
 # settings
 

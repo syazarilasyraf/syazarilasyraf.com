@@ -1,6 +1,6 @@
 ---
 layout: post
-link: /personalizing-your-website
+link: /breaking-the-cliche-of-you-personal-website
 category: 
 tags:
   - Self
