@@ -1,5 +1,6 @@
 ---
 layout: post
+link: /making-time-fly-less
 category:
 tags:
   - Self
