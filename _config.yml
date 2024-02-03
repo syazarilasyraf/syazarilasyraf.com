@@ -27,7 +27,9 @@ collections:
       output: true
       permalink: /tools/:title
 
-footer: '<p>Current Status: <span id="current-status"></span></p>'
+footer: '<p><a href="https://github.com/syazarilasyraf/syazarilasyraf.com?tab=readme-ov-file#syazarilasyrafcom">Readme</a> 🐱 </p>'
+
+# <p>Current Status: <span id="current-status"></span></p>
 
 # settings
 
