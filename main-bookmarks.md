@@ -7,7 +7,7 @@ description: Internet things, saved for later.
 
 <h1>Bookmarks</h1>
 
-<p>Internet things, saved for later.</p>
+<p>Internet things, saved for later. <a href="javascript:void(0);" onclick="redirectToRandomBookmark();">Unsure what to read? Click here.</a></p>
 
 <!-- <hr><hr/> -->
 
@@ -21,3 +21,13 @@ description: Internet things, saved for later.
         </li>
     {% endfor %}
     </ul>
+</div>
+
+<script>
+function redirectToRandomBookmark() {
+    var bookmarks = document.querySelectorAll('ul li a'); // Get all bookmark links
+    var randomIndex = Math.floor(Math.random() * bookmarks.length); // Generate random index
+    var randomBookmark = bookmarks[randomIndex]; // Get random bookmark link
+    window.location.href = randomBookmark.href; // Redirect to random bookmark
+}
+</script>

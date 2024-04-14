@@ -1,0 +1,10 @@
+---
+title: You Don't Need to Learn Svelte – Here's Why
+layout: bookmark
+tags:
+  - Tech
+description: Discover the hidden power of Svelte – the JavaScript framework that feels like déjà vu. Uncover how Svelte simplifies web development, reimagining JS.
+link: https://kaviisuri.com/you-dont-need-to-learn-svelte
+share:
+---
+

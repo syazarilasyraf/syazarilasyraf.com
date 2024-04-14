@@ -1,5 +1,5 @@
 ---
-title: every app that adds AI looks like this
+title: Every app that adds AI looks like this
 layout: bookmark
 tags:
   - Tech
