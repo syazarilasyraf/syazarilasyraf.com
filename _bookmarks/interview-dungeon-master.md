@@ -1,5 +1,5 @@
 ---
-title: Becoming a Dungeon Master for an Interview | PropelAuth Blog
+title: Becoming a Dungeon Master for an Interview
 layout: bookmark
 tags:
   - Tech

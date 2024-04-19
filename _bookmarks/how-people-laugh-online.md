@@ -1,5 +1,5 @@
 ---
-title: How people laugh online - Rest of World
+title: How people laugh online
 layout: bookmark
 tags:
   - Self

@@ -1,5 +1,5 @@
 ---
-title: You are never taught how to build quality software | Florian Bellmann | Be curious, explore and meditate.
+title: You are never taught how to build quality software
 layout: bookmark
 tags:
   - Tech

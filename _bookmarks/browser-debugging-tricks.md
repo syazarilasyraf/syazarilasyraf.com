@@ -1,5 +1,5 @@
 ---
-title: 67 Weird Debugging Tricks Your Browser Doesn't Want You to Know | Alan Norbauer
+title: 67 Weird Debugging Tricks Your Browser Doesn't Want You to Know
 layout: bookmark
 tags:
   - Tech

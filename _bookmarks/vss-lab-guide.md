@@ -1,5 +1,5 @@
 ---
-title: vss-lab-guide - VoidStar Security Wiki
+title: vss-lab-guide
 layout: bookmark
 tags:
   - Self

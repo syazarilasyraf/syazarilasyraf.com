@@ -1,5 +1,5 @@
 ---
-title: How I got here - Inside thoughts
+title: How I got here Inside thoughts
 layout: bookmark
 tags:
   - Self

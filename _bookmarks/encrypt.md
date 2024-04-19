@@ -1,5 +1,5 @@
 ---
-title: Encrypt. Now. — blog.tripu.info
+title: Encrypt. Now.
 layout: bookmark
 tags:
   - Tech

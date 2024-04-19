@@ -1,5 +1,5 @@
 ---
-title: The Worst Programmer I Know - Dan North & Associates Limited
+title: The Worst Programmer I Know
 layout: bookmark
 tags:
   - Tech

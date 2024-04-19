@@ -1,5 +1,5 @@
 ---
-title: Sleeping Our Way to Being Productive | naked capitalism
+title: Sleeping Our Way to Being Productive
 layout: bookmark
 tags:
   - Self

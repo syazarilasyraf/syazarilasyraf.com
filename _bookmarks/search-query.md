@@ -1,5 +1,5 @@
 ---
-title: A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox
+title: Search query
 layout: bookmark
 tags:
   - Tech

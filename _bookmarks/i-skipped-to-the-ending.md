@@ -1,5 +1,5 @@
 ---
-title: I Skipped to the Ending - danangell.com/blog
+title: I Skipped to the Ending
 layout: bookmark
 tags:
   - Self

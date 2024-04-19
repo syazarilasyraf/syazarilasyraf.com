@@ -1,5 +1,5 @@
 ---
-title: Burning money on paid ads for a dev tool – what we've learned - PostHog
+title: Burning money on paid ads for a dev tool
 layout: bookmark
 tags:
   - Tech

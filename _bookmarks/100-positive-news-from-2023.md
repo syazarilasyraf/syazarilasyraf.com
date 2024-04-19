@@ -1,5 +1,5 @@
 ---
-title: 100 Positive News from 2023 | Gapminder
+title: 100 Positive News from 2023
 layout: bookmark
 tags:
   - Self

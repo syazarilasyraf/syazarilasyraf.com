@@ -1,5 +1,5 @@
 ---
-title: There's never been a better time to build websites | simeonGriggs.dev
+title: There's never been a better time to build websites
 layout: bookmark
 tags:
   - Tech

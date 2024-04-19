@@ -1,5 +1,5 @@
 ---
-title: A Million Ways to Die on the Web - Archiveteam
+title: A Million Ways to Die on the Web
 layout: bookmark
 tags:
   - Tech

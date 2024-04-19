@@ -1,5 +1,5 @@
 ---
-title: Finding a New Software Developer Job | Henrik Warne's blog
+title: Finding a New Software Developer Job
 layout: bookmark
 tags:
   - Tech

@@ -1,5 +1,5 @@
 ---
-title: The Dunning-Kruger Effect is Autocorrelation – Economics from the Top Down
+title: The Dunning-Kruger Effect is Autocorrelation
 layout: bookmark
 tags:
   - Self

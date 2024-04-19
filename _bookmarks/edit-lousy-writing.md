@@ -1,5 +1,5 @@
 ---
-title: How To Edit Your Own Lousy Writing – The Stinging Fly
+title: How To Edit Your Own Lousy Writing
 layout: bookmark
 tags:
   - Self

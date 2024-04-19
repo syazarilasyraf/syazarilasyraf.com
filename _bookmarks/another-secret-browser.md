@@ -1,5 +1,5 @@
 ---
-title: Google has another secret browser - Matan-h
+title: Google has another secret browser
 layout: bookmark
 tags:
   - Tech

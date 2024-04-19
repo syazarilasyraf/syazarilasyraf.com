@@ -1,5 +1,5 @@
 ---
-title: Dieselgate, but for trains – some heavyweight hardware hacking – BadCyber
+title: Dieselgate, but for trains some heavyweight hardware hacking
 layout: bookmark
 tags:
   - Tech

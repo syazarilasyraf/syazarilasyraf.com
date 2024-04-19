@@ -1,5 +1,5 @@
 ---
-title: great_tables - The Design Philosophy of Great Tables
+title: The Design Philosophy of Great Tables
 layout: bookmark
 tags:
   - Self

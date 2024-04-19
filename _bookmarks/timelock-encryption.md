@@ -1,5 +1,5 @@
 ---
-title: Timelock Encryption - Send a secret into the future
+title: Timelock Encryption Send a secret into the future
 layout: bookmark
 tags:
   - Self

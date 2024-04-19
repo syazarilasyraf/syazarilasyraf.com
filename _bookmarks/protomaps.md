@@ -1,5 +1,5 @@
 ---
-title: Protomaps | A free and open source map of the world
+title: Protomaps A free and open source map of the world
 layout: bookmark
 tags:
   - Tech

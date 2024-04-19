@@ -1,5 +1,5 @@
 ---
-title: ddanieltan.com - Why I like Obsidian
+title: Why I like Obsidian
 layout: bookmark
 tags:
   - Tech

@@ -1,5 +1,5 @@
 ---
-title: What The Goddamn Hell Is Going On In The Tech Industry? — Ludicity
+title: What The Goddamn Hell Is Going On In The Tech Industry?
 layout: bookmark
 tags:
   - Tech

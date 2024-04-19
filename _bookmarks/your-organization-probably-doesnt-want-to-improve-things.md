@@ -1,5 +1,5 @@
 ---
-title: Your Organization Probably Doesn't Want To Improve Things — Ludicity
+title: Your Organization Probably Doesn't Want To Improve Things
 layout: bookmark
 tags:
   - Self

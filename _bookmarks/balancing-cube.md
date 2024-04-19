@@ -1,5 +1,5 @@
 ---
-title: Balancing cube – Willem Pennings
+title: Balancing cube
 layout: bookmark
 tags:
   - Self

@@ -1,5 +1,5 @@
 ---
-title: How to become a pirate archivist - Anna’s Blog
+title: How to become a pirate archivist
 layout: bookmark
 tags:
   - Tech

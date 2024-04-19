@@ -1,5 +1,5 @@
 ---
-title: Hacking ADHD - Strategies for the Modern Developer | Ledger
+title: Hacking ADHD Strategies for the Modern Developer
 layout: bookmark
 tags:
   - Self

@@ -1,5 +1,5 @@
 ---
-title: Deciphering Glyph - Let Me Tell You A Secret
+title: Deciphering Glyph Let Me Tell You A Secret
 layout: bookmark
 tags:
   - Tech

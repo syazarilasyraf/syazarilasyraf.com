@@ -1,5 +1,5 @@
 ---
-title: Where does my computer get the time from? – Tony Finch
+title: Where does my computer get the time from?
 layout: bookmark
 tags:
   - Tech

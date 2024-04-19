@@ -1,5 +1,5 @@
 ---
-title: The World's Fastest Growing Subdomain & Shadow IT Database
+title: The World's Fastest Growing Subdomain and Shadow IT Database
 layout: bookmark
 tags:
   - Tech

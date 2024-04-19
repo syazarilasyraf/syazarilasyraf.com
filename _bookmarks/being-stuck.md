@@ -1,5 +1,5 @@
 ---
-title: Unlocking Progress - Overcoming the Illusion of Being Stuck
+title: Overcoming the Illusion of Being Stuck
 layout: bookmark
 tags:
   - Self

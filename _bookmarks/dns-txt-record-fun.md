@@ -1,5 +1,5 @@
 ---
-title: Fun with DNS TXT Records | thoughts
+title: Fun with DNS TXT Records
 layout: bookmark
 tags:
   - Tech

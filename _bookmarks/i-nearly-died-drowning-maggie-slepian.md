@@ -1,5 +1,5 @@
 ---
-title: I Nearly Died Drowning. Here’s What it’s Like to Survive. - Longreads
+title: I Nearly Died Drowning. Here’s What it’s Like to Survive.
 layout: bookmark
 tags:
   - Self

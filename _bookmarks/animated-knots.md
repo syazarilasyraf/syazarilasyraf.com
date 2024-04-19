@@ -1,5 +1,5 @@
 ---
-title: Animated Knots by Grog | Learn how to tie knots with step-by-step animation
+title: Learn how to tie knots with step-by-step animation
 layout: bookmark
 tags:
   - Self

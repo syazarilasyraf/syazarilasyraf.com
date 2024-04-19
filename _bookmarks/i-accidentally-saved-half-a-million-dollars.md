@@ -1,5 +1,5 @@
 ---
-title: I Accidentally Saved Half A Million Dollars — Ludicity
+title: I Accidentally Saved Half A Million Dollars
 layout: bookmark
 tags:
   - Tech

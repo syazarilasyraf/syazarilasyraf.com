@@ -1,5 +1,5 @@
 ---
-title: Why the worst users come from referral programs, free trials, coupons, and gamification at andrewchen
+title: Worst users referral trials coupons gamification
 layout: bookmark
 tags:
   - Self

@@ -1,5 +1,5 @@
 ---
-title: Things Unexpectedly Named After People · Notes
+title: Things Unexpectedly Named After People
 layout: bookmark
 tags:
   - Self

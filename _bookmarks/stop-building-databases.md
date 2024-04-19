@@ -1,5 +1,5 @@
 ---
-title: SQLSync - Stop building databases
+title: Stop building databases
 layout: bookmark
 tags:
   - Tech

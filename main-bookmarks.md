@@ -21,7 +21,7 @@ description: Internet things, saved for later.
         </li>
     {% endfor %}
     </ul>
-</div>
+
 
 <script>
 function redirectToRandomBookmark() {

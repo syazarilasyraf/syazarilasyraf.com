@@ -1,5 +1,5 @@
 ---
-title: 12 Map Happenings that Rocked our World - Part 9 – Map Happenings
+title: 12 Map Happenings that Rocked our World
 layout: bookmark
 tags:
   - Self

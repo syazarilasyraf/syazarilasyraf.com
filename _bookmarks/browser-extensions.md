@@ -1,5 +1,5 @@
 ---
-title: Browser extensions are underrated - the promise of hackable software
+title: Browser extensions are underrated
 layout: bookmark
 tags:
   - Tech

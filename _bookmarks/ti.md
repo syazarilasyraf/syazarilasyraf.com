@@ -1,5 +1,5 @@
 ---
-title: Tech Independence | Derek Sivers
+title: Tech Independence
 layout: bookmark
 tags:
   - Tech

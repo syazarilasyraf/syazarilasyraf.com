@@ -1,5 +1,5 @@
 ---
-title: In Loving Memory of Square Checkbox @ tonsky.me
+title: In Loving Memory of Square Checkbox
 layout: bookmark
 tags:
   - Tech

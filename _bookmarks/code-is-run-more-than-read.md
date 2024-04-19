@@ -1,5 +1,5 @@
 ---
-title: Code is run more than read | olano.dev
+title: Code is run more than read
 layout: bookmark
 tags:
   - Tech

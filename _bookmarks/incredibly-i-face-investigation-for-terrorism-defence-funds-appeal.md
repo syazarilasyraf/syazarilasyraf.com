@@ -1,5 +1,5 @@
 ---
-title: Incredibly, I Face Investigation for Terrorism – Defence Funds Appeal
+title: Incredibly, I Face Investigation for Terrorism
 layout: bookmark
 tags:
   - Self

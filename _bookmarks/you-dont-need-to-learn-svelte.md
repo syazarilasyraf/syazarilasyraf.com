@@ -1,5 +1,5 @@
 ---
-title: You Don't Need to Learn Svelte – Here's Why
+title: You Don't Need to Learn Svelte
 layout: bookmark
 tags:
   - Tech
