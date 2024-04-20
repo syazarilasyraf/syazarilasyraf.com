@@ -16,7 +16,7 @@ description: Internet things, saved for later.
     <ul>
         <li>
         <!-- <span>{{- bookmark.date | date: "%m-%d" -}}</span> -->
-        <span>({{ bookmark.tags | join: ', ' }})</span>
+        <!-- <span>({{ bookmark.tags | join: ', ' }})</span> -->
         <span><a href="{{ bookmark.url }}">{{ bookmark.title }}</a></span>
         </li>
     {% endfor %}
