@@ -1,10 +1,14 @@
 ---
-title: /contact
+title: Notes
 layout: page
-permalink: /contact
+redirect_to: "https://notes.syazarilasyraf.com"
 ---
 
-# Get in touch?
+<script>
+    window.location.href = "{{ page.redirect_to }}";
+</script>
+
+<!-- # Get in touch?
 
 <form>
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
@@ -13,4 +17,4 @@ permalink: /contact
   <input type="submit" value="[ submit&nbsp;]">
 </form>
 
-<br /><br />(This is a demo site, the form doesn't work - If you want to implement a form on your site, you need an external service)
+<br /><br />(This is a demo site, the form doesn't work - If you want to implement a form on your site, you need an external service) -->
