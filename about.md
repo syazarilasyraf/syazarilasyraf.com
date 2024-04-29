@@ -6,9 +6,11 @@ permalink: /about/
 
 <h1>About me</h1>
 
-Hey there, I go by ‘Wan.’ I made the shift from Electronic (Communication) Engineering to programming with a passion for making a positive impact, particularly in the dynamic world of technology trends and privacy. I focus on the impact and ethics of my work; trying to leave the world a better place than I found it.
+Hi there, I'm Wan. I'm passionate about tech and its potential for good, especially in privacy and new trends. Transitioning to programming has been my way of fully immersing myself in that mission.
 
-By day, I'm an Electrical Technician in Göd, Hungary. At night, I'm just a guy enjoying all sorts of random things, tinkering with code and design-tools or explore minimalism.
+For me, it's not just about the job—it's about doing work that leaves a positive mark and stays true to my values. I'm on a mission to leave the world a bit better than I found it.
+
+Beyond work hours, I'm a tech and design junkie. Whether I'm coding away, tinkering with design tools, or simplifying my life with minimalism, I'm always up for a creative challenge.
 
 <hr>
 {%-include newsletter.html-%}
