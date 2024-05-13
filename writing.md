@@ -14,8 +14,6 @@ permalink: /writing/
     {% endfor %}
 </div>
 
-<!-- <hr><hr/> -->
-
 <div>
     {% for tag in site.tags %}
     <h2 id="{{ tag[0] | slugify }}">{{ tag | first }}</h2>
@@ -30,7 +28,3 @@ permalink: /writing/
     </ul>
     {% endfor %}
 </div>
-
-<hr>
-{%-include newsletter.html-%}
-<hr>

@@ -3,17 +3,14 @@ author: Syazaril Asyraf # name of site's author
 email: wan@syazarilasyraf.com # email of site's author
 url: https://syazarilasyraf.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: Hello 👋 I'm Syazaril Asyraf. I build things for the web. # description of the site (multiple lines allowed)
+description: I’m Syazaril Asyraf, also known as Wan. I build things for the web and believe in using code to make the world a better place, one code at a time. Keeping things simple and minimal is my mantra. # description of the site (multiple lines allowed)
 
 permalink: /:slug.html
 
 header_pages:
  - index.md
- - about.md
  - writing.md
- - feed.md
  - projects.md
-#  - contact.md
 
 include:
   - _bookmarks
@@ -28,9 +25,7 @@ collections:
       output: true
       permalink: /tools/:title
 
-footer: '<p><a href="https://github.com/syazarilasyraf/syazarilasyraf.com?tab=readme-ov-file#syazarilasyrafcom">Readme</a> 🐱 </p>'
-
-# <p>Current Status: <span id="current-status"></span></p>
+# footer: '<p><a href=""></a></p>'
 
 # settings
 
@@ -41,3 +36,4 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed

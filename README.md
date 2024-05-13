@@ -4,7 +4,6 @@ Welcome to my personal site! This is where I share a bit about myself and what I
 
 ## Overview
 
-- **About**: Learn more about me and what I do in the digital world.
 - **Writing**: Check out my writing, which includes some tech articles from my [Hashnode](https://wmsa.hashnode.dev/) days and explore my shorter, simpler posts on various topics like the web and personal development.
 - **Projects**: Dive into my personal projects, along with some useful bookmarks and tools.
 
