@@ -10,7 +10,7 @@ permalink: /writing/
 <h1>Tags</h1>
 <div>
     {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    <a href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
     {% endfor %}
 </div>
 
