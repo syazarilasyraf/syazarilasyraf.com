@@ -1,6 +1,6 @@
 ---
 layout: post
-link: the-abcs-of-language-models
+link: /the-abcs-of-language-models
 category: 
 tags:
   - Tech
