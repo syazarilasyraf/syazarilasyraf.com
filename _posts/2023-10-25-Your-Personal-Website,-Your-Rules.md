@@ -8,7 +8,7 @@ share: true
 ---
 Ever had that pounding headache when choosing the right tech stack for your personal website? I sure did. After much contemplation, I settled on Jekyll. But truth be told, there's no one-size-fits-all answer to the "best" stack for a personal site. It all boils down to your goals and what you want to showcase.
 
-In my case, I had a clear purpose. I wanted to add "bookmarks" and "tools" features to my personal site, which I explained [here](/personalizing-your-website). So, my choice of stack had to fit my goals.
+In my case, I had a clear purpose. I wanted to add "bookmarks" and "tools" features to my personal site, which I explained [here](/breaking-the-cliche-of-your-personal-website). So, my choice of stack had to fit my goals.
 
 When it comes to crafting your personal website, there are some key elements you can't afford to skip. The homepage is like your digital doorstep, your chance to give a glimpse of who you are. Consider a brief "about" section, showcase your key projects, add a subscription option, and pin your top posts. The structure of this page depends on how you want to present yourself initially.
 
