@@ -16,7 +16,7 @@ I've built this site using [Jekyll](https://jekyllrb.com/) with the [Console The
 - **Bookmarks**: Discover my favorite internet findings, neatly organized.
 - **Tools**: Access the tools I use regularly, directly from my site.
 
-I've even written a post explaining how the bookmark and tool functionalities work [here](https://syazarilasyraf.com/personalizing-your-website).
+I've even written a post explaining how the bookmark and tool functionalities work [here](https://syazarilasyraf.com/breaking-the-cliche-of-your-personal-website).
 
 Feel free to explore, comment, and reach out if you have any questions or just want to chat. 
 
