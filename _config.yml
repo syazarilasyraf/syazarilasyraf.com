@@ -7,10 +7,10 @@ description: I’m Syazaril Asyraf, also known as Wan. I build things for the we
 
 permalink: /:slug.html
 
-header_pages:
- - index.md
- - writing.md
- - projects.md
+# header_pages:
+#  - index.md
+#  - writing.md
+#  - projects.md
 
 include:
   - _bookmarks
@@ -29,10 +29,10 @@ collections:
 
 # settings
 
-style: dark
+# style: dark
 
-sass:
-  style: :compressed
+# sass:
+#   style: :compressed
 
 plugins:
   - jekyll-seo-tag

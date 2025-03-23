@@ -5,13 +5,13 @@ permalink: "/tools"
 description: A list of my favorite tools that I use on a regular basis and that I would recommend to try.
 ---
 
-<h1>Tools</h1>
+<div class="wrap">
 
-<p>A list of my favorite tools that I use on a regular basis and that I would recommend to try.</p>
+<p class="section">A list of my favorite tools that I use on a regular basis and that I would recommend to try.</p>
 
-<ul>
+<p>
   {% for tool in site.tools %}
-    <li><a href="{{ tool.link }}">{{ tool.title }}</a></li>
-    <p>{{ tool.description }}</p>
+    <a href="{{ tool.link }}">{{ tool.title }}</a>
+    {{ tool.description }}<br />
   {% endfor %}
-</ul>
+</p>

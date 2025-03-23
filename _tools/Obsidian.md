@@ -3,7 +3,7 @@ title: Obsidian
 layout: tool
 tags:
   - Windows
-description: Note-taking software application
+description: is a powerful note-taking application.
 link: https://obsidian.md/
 share:
 ---

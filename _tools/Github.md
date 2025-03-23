@@ -3,7 +3,7 @@ title: Github
 layout: tool
 tags:
   - Web
-description: A Git repository hosting service.
+description: is a Git repository hosting service.
 link: https://github.com/
 share:
 ---

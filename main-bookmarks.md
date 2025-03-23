@@ -5,31 +5,9 @@ permalink: "/bookmarks"
 description: Internet things, saved for later.
 ---
 
-<h1>Bookmarks</h1>
+<div class="wrap">
 
-<p>Internet things, saved for later.</p>
-
-<p><em>99% of the bookmarks on this page are my favorite URLs from <a href="https://news.ycombinator.com/">Hacker News</a>. As of May 2024, I’m not adding new URLs anymore. Instead, I collect them each month and post them under my writing page as <a href="https://syazarilasyraf.com/writing/#links">"[month]'s web discoveries."</a></em></p>
-
-<p></p><!--  - this is a line break -->
-
-<script src="/assets/js/pagefind-ui.js"></script>
-<div id="search"></div>
-
-<p></p><!--  - this is a line break -->
-
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
-        setTimeout(() => {
-            document.querySelectorAll('button').forEach(button => button.remove());
-            const searchInput = document.querySelector('#search input');
-            if (searchInput) {
-                searchInput.focus();
-            }
-        }, 0);
-    });
-</script>
+<p class="section"><em>99% of the bookmarks on this page are my favorite URLs from <a class="section" href="https://news.ycombinator.com/">Hacker News</a>. As of May 2024, I’m not adding new URLs anymore. Instead, I collect them each month and post them under my writing page as <a class="section" href="https://syazarilasyraf.com/writing/#links">"[month]'s web discoveries."</a></em></p>
 
 <div>
 
@@ -76,4 +54,6 @@ description: Internet things, saved for later.
             {% endfor %}
         </ul>
     {% endfor %}
+</div>
+
 </div>
