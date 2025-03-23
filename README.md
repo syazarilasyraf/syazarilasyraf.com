@@ -9,7 +9,7 @@ Welcome to my personal site! This is where I share a bit about myself and what I
 
 ## Technologies
 
-I've built this site using [Jekyll](https://jekyllrb.com/) with the [Console Theme](https://github.com/b2a3e8/jekyll-theme-console). It's all about minimalism and simplicity.
+I've built this site using [Jekyll](https://jekyllrb.com/). It's all about minimalism and simplicity.
 
 ## Key Features
 

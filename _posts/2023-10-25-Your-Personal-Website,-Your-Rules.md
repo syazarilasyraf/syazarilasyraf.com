@@ -16,6 +16,6 @@ The "About" section is crucial. It's where you tell your story, share your passi
 
 That's essentially all you need for a compelling personal website. But don't forget about the design. It's your first impression, and we all know first impressions matter. So, choose your design wisely; it's how people will judge you initially.
 
-For me, I'm a fan of minimalism. It's why I chose this [design](https://github.com/b2a3e8/jekyll-theme-console)—it reflects who I am.
+For me, I'm a fan of minimalism. It reflects who I am.
 
 In conclusion, there's no one-size-fits-all solution to the tech stack for a personal site, but it should align with your goals. Your website's elements should match your personal brand, and the design sets the tone for that crucial first impression.
