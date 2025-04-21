@@ -9,6 +9,8 @@ description: Internet things, saved for later.
 
 <p class="section"><em>99% of the bookmarks on this page are my favorite URLs from <a class="section" href="https://news.ycombinator.com/">Hacker News</a>. As of May 2024, I’m not adding new URLs anymore. Instead, I collect them each month and post them under my writing page as <a class="section" href="https://syazarilasyraf.com/writing/#links">"[month]'s web discoveries."</a></em></p>
 
+<p class="section"><em>Updated: April 2025. I now save bookmarks in <a class="section" href="https://bookmark.syazarilasyraf.com/bookmarks/shared" target="_blank">Linkding</a>. Browse them there!</em></p>
+
 <div>
 
     {% assign all_tags = "" %}
