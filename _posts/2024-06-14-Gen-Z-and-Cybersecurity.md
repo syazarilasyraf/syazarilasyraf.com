@@ -25,7 +25,3 @@ Attacks are getting more sophisticated with AI and other advanced tech, making t
 So, how do we keep ourselves protected? Here are some tips.
 
 Keep learning. Cyber threats change all the time, so it’s good to regularly check out new courses and security news. Get into good habits like using strong, unique passwords for different accounts, enabling multi-factor authentication, and keeping your software updated. Always be skeptical of unsolicited emails or messages. Even if they seem to come from someone you know, verify through another means before responding. And use the right tools, like antivirus software, password managers, and VPNs, to add extra layers of security.
-
-# Wrapping Up
-
-We, Gen Z, have the potential to be awesome at cybersecurity because of our tech skills and proactive attitude. But we need to stay vigilant because the threat landscape is always changing. By keeping informed, adopting good practices, and using the right tools, we can protect our digital lives.
