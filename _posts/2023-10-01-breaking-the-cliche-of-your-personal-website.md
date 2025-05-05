@@ -23,5 +23,3 @@ It's all about keeping things simple. Google Keep is fantastic for basic notes, 
 # The Appeal of Obsidian
 
 [Obsidian](https://obsidian.md/) is more than just a note-taking app. It values privacy, boasts a range of plugins, and offers local backups for peace of mind. It's user-friendly, making it a great choice for someone like me who's still learning the ropes.
-
-In conclusion, adding a "Bookmarks" and "Tools" section to your personal website isn't just about content. It's a smart way to enhance your site's functionality and uniqueness. This approach sets your website apart and adds value to your visitors. Thanks to tools like Jekyll and Obsidian, it's a straightforward process. Obsidian, in particular, is a fantastic tool that enhances this journey.
