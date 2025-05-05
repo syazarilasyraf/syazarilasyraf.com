@@ -15,7 +15,3 @@ Don't get me wrong, human creativity is still amazing. There’s something speci
 It’s not just writing that’s changing. AI can now create music, art, and even enhance photos. This means artists and musicians can work with AI to create new things, and we get to enjoy an endless stream of cool, new content.
 
 Some people might worry about AI taking over, but I see it as a chance to collaborate. Human creativity will always be important, but AI can help us explore new possibilities and take care of the boring stuff.
-
-Fun fact: even this blog post was influenced by AI. It’s a mix of my ideas and some help from AI, showing how we can work together.
-
-As we move forward, let's welcome the benefits of AI while keeping the heart of human creativity alive. This way, we get the best of both worlds: human originality and AI efficiency.
