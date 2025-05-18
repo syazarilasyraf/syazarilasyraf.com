@@ -15,6 +15,8 @@ permalink: /projects/
         my favorite go-to resources for regular basis.<br />
         <a href="/feed">Feeds</a> are
         where I keep my collection of notes.<br />
+        <a href="https://hn.syazarilasyraf.com">HN Digest</a> is
+        a daily Hacker News newsletter I run for fun.
 </p>
 
 </div>
