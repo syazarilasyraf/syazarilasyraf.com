@@ -9,7 +9,7 @@ permalink: /projects/
 <p class="section">Projects</p>
 
 <p>
-  <a href="/bookmarks">Bookmarks</a> are
+  <a href="https://bookmark.syazarilasyraf.com">Bookmarks</a> are
   internet things i've saved for later.<br />
   <a href="/tools">Tools</a> are
   my favorite go-to resources for regular basis.<br />
