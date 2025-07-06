@@ -3,7 +3,7 @@ title: Google Keep
 layout: tool
 tags:
   - Android
-description: is a simple note-taking tool by Google.
+description: is my personal favourite note-taking tool from Google.
 link: https://keep.google.com/
 share:
 ---
