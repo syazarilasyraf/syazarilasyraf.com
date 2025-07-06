@@ -254,10 +254,15 @@ h3 {
     color: var(--text-mid-low);
 }
 
+/* Only indent the third paragraph in .wrap-thought (first real paragraph) */
+.wrap-thought p:nth-of-type(2) {
+    text-indent: 1.5em;
+}
 
+/* Remove indent for subsequent paragraphs */
 .wrap-thought p + p {
     padding-top: 15px;
-    text-indent: 1.5em;
+    text-indent: 0;
 }
 
 
