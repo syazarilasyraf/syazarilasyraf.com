@@ -1,3 +1,21 @@
 <footer>
     {{ site.footer }}
 </footer>
+
+<script>
+  // Make external links open in new tab
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('a').forEach(function(link) {
+      var href = link.getAttribute('href');
+      if (href && (href.startsWith('http://') || href.startsWith('https://'))) {
+        // Check if it's an external link (not same domain)
+        var linkDomain = new URL(href).hostname;
+        var currentDomain = window.location.hostname;
+        if (linkDomain !== currentDomain) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+        }
+      }
+    });
+  });
+</script>

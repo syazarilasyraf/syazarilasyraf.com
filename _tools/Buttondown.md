@@ -3,7 +3,7 @@ title: Buttondown
 layout: tool
 tags:
   - Web
-description: is where I manage my newsletter.
+description: runs my daily Hacker News digest
 link: https://buttondown.email/
 share: 
 ---

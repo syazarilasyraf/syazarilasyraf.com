@@ -3,7 +3,7 @@ title: Github
 layout: tool
 tags:
   - Web
-description: is my primary Git hosting platform.
+description: where I store and manage my projects
 link: https://github.com/
 share:
 ---
