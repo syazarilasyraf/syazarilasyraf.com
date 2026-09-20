@@ -13,7 +13,7 @@ I write occasionally - sometimes just quick [notes](https://feed.syazarilasyraf.
 <p class="section">Other</p>
 <p>
 I send out a small daily <a href="https://hn.syazarilasyraf.com">Hacker News newsletter</a>, 
-and keep track of interesting <a href="https://bookmarks.up.railway.app/">links</a> I find, 
+and keep track of interesting <a href="https://bookmarks.up.railway.app/bookmarks/shared">links</a> I find, 
 side <a href="/projects">projects</a> i tinker with, 
 and <a href="/tools">tools</a> I use regularly.
 </p>
