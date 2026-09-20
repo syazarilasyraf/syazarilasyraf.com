@@ -3,7 +3,7 @@ title: ChatGPT
 layout: tool
 tags:
   - AI
-description: helps me think, debug, and move faster
+description: is my first stop for brainstorming, questions, and things I'd normally Google
 link: https://chat.openai.com
 share: 
 ---
